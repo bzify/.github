@@ -1,2 +1,1 @@
-# .github
-what we do
+# welcome to this corner of the internet 👋
